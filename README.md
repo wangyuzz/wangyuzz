@@ -8,12 +8,29 @@ Making developer tools more practical for everyday use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-wangyuzz-181717?style=flat-square&logo=github)](https://github.com/wangyuzz)
 [![Project](https://img.shields.io/badge/Project-agent--session--cleaner-2563EB?style=flat-square)](https://github.com/wangyuzz/agent-session-cleaner)
+[![TodaEat](https://img.shields.io/badge/Project-TodaEat-E8734A?style=flat-square)](https://github.com/wangyuzz/TodaEat)
 
 </div>
 
 ---
 
-## 正在维护 · Featured project
+## Featured projects · 正在维护
+
+### [TodaEat · 今天吃什么](https://github.com/wangyuzz/TodaEat)
+
+A self-hosted restaurant wishlist and shared dining journal for two people. Save places to try, pick a restaurant when you cannot decide, and record meals, ratings, moods, and photos.
+
+一个可自行部署的餐厅收藏与双人用餐手账：收藏想去的店，随机决定去哪吃，记录每一餐的评分、心情和照片。
+
+Built with **React + Vite, Go + Gin, and SQLite**. Includes a photo wall, achievements, separate application and administrator access, English / Chinese documentation, and Windows / Linux downloads.
+
+<a href="https://github.com/wangyuzz/TodaEat#preview">
+  <img src="https://raw.githubusercontent.com/wangyuzz/TodaEat/main/docs/images/restaurants.jpg" alt="TodaEat restaurant collection with categories, food photos, and sample data" width="320">
+</a>
+
+The preview uses supplied food photos and sample records. 预览使用已提供的菜品照片及示例数据。
+
+[English README](https://github.com/wangyuzz/TodaEat#readme) · [中文说明](https://github.com/wangyuzz/TodaEat/blob/main/README.zh-CN.md) · [Releases / 版本下载](https://github.com/wangyuzz/TodaEat/releases/latest) · [Issues / 问题反馈](https://github.com/wangyuzz/TodaEat/issues)
 
 ### [agent-session-cleaner](https://github.com/wangyuzz/agent-session-cleaner)
 
@@ -38,6 +55,7 @@ I maintain this MIT-licensed fork of the original project, with improvements to 
 
 - 让 AI 开发工具更容易使用 · Practical AI developer tooling
 - 改善 Windows 与终端工作流 · Windows and terminal workflows
+- 构建可自行部署的日常记录工具 · Self-hosted apps for everyday life
 - 用实际功能、文档和测试维护开源项目 · Open-source maintenance through useful features, documentation, and tests
 
 欢迎通过项目 Issues 提交可复现的问题或功能建议。
